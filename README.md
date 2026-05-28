@@ -14,9 +14,19 @@ Enterprise-grade multi-tenant Hospital Operating System integrating HMS, EMR, PH
 
 ---
 
+<p align="center">
+  <img 
+    src="./assets/branding/vectorless-banner.png"
+    width="100%"
+    alt="Vectorless Knowledge Engine Banner"
+  />
+</p>
+
+---
+
 ## 🌐 Live Platform
 
-🌐 https://hos.shivamitcs.in
+🌐 [Live Platform](https://hos.shivamitcs.in)
 
 ---
 
@@ -163,8 +173,6 @@ Capabilities include:
 
 ---
 
----
-
 ## System Architecture
 
 The platform follows a scalable multi-tenant healthcare architecture engineered for enterprise hospitals, operational workflows, AI-powered healthcare systems, and secure patient management infrastructure.
@@ -296,19 +304,6 @@ The ecosystem is designed to modernize healthcare infrastructure through scalabl
 
 ---
 
-## Scalability Engineering
-
-- Modular healthcare architecture
-- Multi-tenant operational infrastructure
-- Event-driven healthcare workflows
-- Optimized rendering pipelines
-- Enterprise deployment readiness
-- Scalable database workflows
-- Intelligent operational infrastructure
-- High-performance dashboard systems
-
----
-
 ## Platform Focus Areas
 
 - Healthcare SaaS
@@ -378,13 +373,15 @@ The ecosystem is designed to modernize healthcare infrastructure through scalabl
 ## Repository Structure
 
 ```txt
-/assets
-   /screenshots
-   /branding
-   /architecture
-   /workflows
-```txt
-----
+assets/
+├── architecture/
+├── branding/
+├── screenshots/
+│   ├── admin/
+│   ├── doctor/
+│   └── patient/
+└── workflows/
+```
 
 # Engineering Vision
 
