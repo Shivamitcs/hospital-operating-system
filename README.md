@@ -163,11 +163,23 @@ Capabilities include:
 
 ---
 
+---
+
+## System Architecture
+
+The platform follows a scalable multi-tenant healthcare architecture engineered for enterprise hospitals, operational workflows, AI-powered healthcare systems, and secure patient management infrastructure.
+
+<p align="center">
+  <img src="./assets/architecture/hos-system-architecture.png" width="100%" alt="HOS System Architecture"/>
+</p>
+
+---
+
 ## Platform Preview
 
 Modern healthcare workflows engineered for hospitals, medical teams, administrators, and patients.
 
-Platform previews, architecture diagrams, operational workflows, dashboard screenshots, and mobile healthcare experiences will be added soon.
+The platform delivers intelligent healthcare infrastructure through role-based operational systems, AI-assisted healthcare workflows, patient engagement systems, and enterprise-grade healthcare management experiences.
 
 ---
 
@@ -175,39 +187,51 @@ Platform previews, architecture diagrams, operational workflows, dashboard scree
 
 ### 🏥 Hospital Operations Dashboard
 
-Coming Soon
-
----
-
-### 👨‍⚕️ Doctor Workflow System
-
-Coming Soon
-
----
-
-### 📅 Appointment Infrastructure
-
-Coming Soon
+<p align="center">
+  <img src="./assets/screenshots/admin/dashboard-dark.png" width="100%" alt="Hospital Operations Dashboard"/>
+</p>
 
 ---
 
 ### 🤖 AI Clinical Copilot
 
-Coming Soon
+<p align="center">
+  <img src="./assets/screenshots/doctor/Dashboard.png" width="100%" alt="AI Clinical Copilot"/>
+</p>
 
 ---
 
-### 📊 Enterprise Healthcare Analytics
+### 👥 Patient Management System
 
-Coming Soon
+<p align="center">
+  <img src="./assets/screenshots/admin/Patients-dark.png" width="100%" alt="Patient Management System"/>
+</p>
 
 ---
 
-# 📱 Mobile Healthcare Experience
+### 📅 Appointment Infrastructure
 
-Modern healthcare interactions engineered for patients and healthcare professionals across mobile devices.
+<p align="center">
+  <img src="./assets/screenshots/admin/Appoinments-dark.png" width="100%" alt="Appointment Infrastructure"/>
+</p>
 
-Mobile application previews and healthcare workflow screenshots will be added soon.
+---
+
+### 🏥 IPD & Ward Management
+
+<p align="center">
+  <img src="./assets/screenshots/admin/IP&Ward-dark.png" width="100%" alt="IPD & Ward Management"/>
+</p>
+
+---
+
+### 🧑‍⚕️ Patient Healthcare Experience
+
+<p align="center">
+  <img src="./assets/screenshots/patient/Dashboard-dark.png" width="100%" alt="Patient Healthcare Experience"/>
+</p>
+
+---
 
 # 🔐 Security Architecture
 
