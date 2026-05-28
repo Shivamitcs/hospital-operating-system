@@ -14,16 +14,6 @@ Enterprise-grade multi-tenant Hospital Operating System integrating HMS, EMR, PH
 
 ---
 
-<p align="center">
-  <img 
-    src="./assets/branding/vectorless-banner.png"
-    width="100%"
-    alt="Vectorless Knowledge Engine Banner"
-  />
-</p>
-
----
-
 ## 🌐 Live Platform
 
 🌐 [Live Platform](https://hos.shivamitcs.in)
