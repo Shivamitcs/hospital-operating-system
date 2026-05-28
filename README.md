@@ -14,6 +14,22 @@ Enterprise-grade multi-tenant Hospital Operating System integrating HMS, EMR, PH
 
 ---
 
+<p align="center">
+  <img 
+    src="./assets/branding/hos-banner.png" 
+    width="100%" 
+    alt="HOS Enterprise Healthcare Platform Banner"
+  />
+</p>
+
+---
+
+# 🏥 HOS — Hospital Operating System
+
+![Next.js](https://img.shields.io/badge/Next.js-14-black)
+![React](https://img.shields.io/badge/React-18-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-Enterprise-blue)
+
 ## 🌐 Live Platform
 
 🌐 [Live Platform](https://hos.shivamitcs.in)
