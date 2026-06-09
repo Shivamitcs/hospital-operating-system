@@ -24,7 +24,7 @@ Enterprise-grade multi-tenant Hospital Operating System integrating HMS, EMR, PH
 
 ## 🌐 Live Platform
 
-🌐 [Live Platform](https://hos.shivamitcs.in)
+🌐 https://hos.shivamitcs.in
 
 ---
 
@@ -171,6 +171,18 @@ Capabilities include:
 
 ---
 
+## Architecture Highlights
+
+- Multi-tenant healthcare architecture
+- Unified HMS, EMR & PHR ecosystem
+- AI Clinical Copilot infrastructure
+- Event-driven healthcare workflows
+- Tenant-level data isolation
+- Role-based operational dashboards
+- Scalable healthcare analytics platform
+
+---
+
 ## System Architecture
 
 The platform follows a scalable multi-tenant healthcare architecture engineered for enterprise hospitals, operational workflows, AI-powered healthcare systems, and secure patient management infrastructure.
@@ -247,10 +259,11 @@ HOS includes:
 
 * JWT authentication workflows
 * Google OAuth 2.0 integration
-* RBAC infrastructure
-* secure healthcare APIs
-* tenant-level operational isolation
-* protected dashboard workflows
+* Role-Based Access Control (RBAC)
+* Tenant-level data isolation
+* Protected healthcare APIs
+* Secure environment configuration
+* Session security controls
 
 ---
 
@@ -266,6 +279,18 @@ The platform is engineered for scalable healthcare operations across multiple he
 * event-driven processing
 * optimized rendering pipelines
 * enterprise deployment readiness
+
+---
+
+## Key Use Cases
+
+- Hospital management systems
+- Multi-clinic healthcare operations
+- Patient engagement platforms
+- Electronic medical records management
+- Appointment scheduling systems
+- Healthcare workflow automation
+- AI-assisted healthcare operations
 
 ---
 
@@ -299,6 +324,18 @@ The platform enables:
 - enterprise healthcare management
 
 The ecosystem is designed to modernize healthcare infrastructure through scalable operational systems and AI-assisted healthcare experiences.
+
+---
+
+## Business Outcomes
+
+- Improved patient engagement
+- Streamlined hospital operations
+- Reduced administrative overhead
+- Enhanced healthcare accessibility
+- Faster appointment coordination
+- Improved operational visibility
+- Scalable multi-hospital management
 
 ---
 
@@ -396,6 +433,35 @@ Modern healthcare systems are operationally fragmented and difficult to scale ef
 HOS was designed to unify healthcare operations, patient workflows, AI-assisted healthcare systems, and scalable operational infrastructure into one centralized enterprise healthcare platform.
 
 The goal is to modernize healthcare operations through intelligent digital infrastructure and scalable healthcare experiences.
+
+---
+
+## Repository Topics
+
+```txt
+hospital-management-system
+healthcare-platform
+electronic-medical-records
+patient-health-records
+healthcare-saas
+multi-tenant
+nextjs
+typescript
+postgresql
+prisma
+openai
+healthcare-ai
+clinical-copilot
+patient-management
+appointment-scheduling
+healthcare-analytics
+rbac
+digital-health
+enterprise-healthcare
+medical-software
+```
+
+---
 
 # 📄 License
 
