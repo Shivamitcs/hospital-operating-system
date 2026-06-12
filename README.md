@@ -15,9 +15,7 @@ Enterprise-grade multi-tenant Hospital Operating System integrating HMS, EMR, PH
 ---
 
 <p align="center">
-  <img 
-    src="./assets/branding/hos-banner.png" width="100%" alt="HOS Enterprise Healthcare Platform Banner"
-  />
+  <img src="./assets/branding/hos-banner.png" width="100%" alt="HOS Enterprise Healthcare Platform Banner" />
 </p>
 
 ---
