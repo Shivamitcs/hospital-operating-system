@@ -22,7 +22,7 @@ Enterprise-grade multi-tenant Hospital Operating System integrating HMS, EMR, PH
 
 ## 🌐 Live Platform
 
-🌐 https://hos.shivamitcs.in
+🌐 https://hos.shivamitcs.in 
 
 ---
 
